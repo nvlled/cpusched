@@ -17,7 +17,6 @@ namespace cpusched
             {RoundRobin, "Round Robin"},
         };
 
-
         public static Sched FirstComeFirstServe(List<Process> ps)
         {
             Comparison<Process> cmp;
@@ -50,13 +49,14 @@ namespace cpusched
         // pre-emptive SJF
         public static Sched ShortestRemainingTimeFirst(List<Process> ps)
         {
+            // TODO:
             return new Sched();
         }
 
         public static Sched RoundRobin(List<Process> ps)
         {
-            var sched = new Sched();
-            return sched;
+            // TODO:
+            return new Sched();
         }
     }
 }

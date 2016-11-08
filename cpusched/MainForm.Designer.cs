@@ -35,8 +35,6 @@
             this.panelGantt = new System.Windows.Forms.Panel();
             this.chkSJF = new System.Windows.Forms.CheckBox();
             this.chkFCFS = new System.Windows.Forms.CheckBox();
-            this.chkPriority = new System.Windows.Forms.CheckBox();
-            this.chkRR = new System.Windows.Forms.CheckBox();
             this.wah = new System.Windows.Forms.Label();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.panelBack = new System.Windows.Forms.Panel();
@@ -86,19 +84,6 @@
             this.toolTip1.SetToolTip(this.chkFCFS, resources.GetString("chkFCFS.ToolTip"));
             this.chkFCFS.UseVisualStyleBackColor = true;
             // 
-            // chkPriority
-            // 
-            resources.ApplyResources(this.chkPriority, "chkPriority");
-            this.chkPriority.Name = "chkPriority";
-            this.chkPriority.UseVisualStyleBackColor = true;
-            // 
-            // chkRR
-            // 
-            resources.ApplyResources(this.chkRR, "chkRR");
-            this.chkRR.Name = "chkRR";
-            this.toolTip1.SetToolTip(this.chkRR, resources.GetString("chkRR.ToolTip"));
-            this.chkRR.UseVisualStyleBackColor = true;
-            // 
             // wah
             // 
             resources.ApplyResources(this.wah, "wah");
@@ -129,8 +114,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panelBack);
             this.Controls.Add(this.wah);
-            this.Controls.Add(this.chkRR);
-            this.Controls.Add(this.chkPriority);
             this.Controls.Add(this.chkFCFS);
             this.Controls.Add(this.chkSJF);
             this.Controls.Add(this.button1);
@@ -152,8 +135,6 @@
         private System.Windows.Forms.Panel panelGantt;
         private System.Windows.Forms.CheckBox chkSJF;
         private System.Windows.Forms.CheckBox chkFCFS;
-        private System.Windows.Forms.CheckBox chkPriority;
-        private System.Windows.Forms.CheckBox chkRR;
         private System.Windows.Forms.Label wah;
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.Panel panelBack;

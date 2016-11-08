@@ -148,7 +148,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;gridPs.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>5</value>
   </data>
   <data name="button1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
@@ -175,7 +175,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>4</value>
   </data>
   <data name="panelGantt.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
@@ -232,7 +232,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkSJF.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>3</value>
   </data>
   <data name="chkFCFS.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
@@ -265,69 +265,6 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkFCFS.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="chkPriority.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
-  </data>
-  <data name="chkPriority.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="chkPriority.Location" type="System.Drawing.Point, System.Drawing">
-    <value>142, 327</value>
-  </data>
-  <data name="chkPriority.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 21</value>
-  </data>
-  <data name="chkPriority.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="chkPriority.Text" xml:space="preserve">
-    <value>Priority</value>
-  </data>
-  <data name="&gt;&gt;chkPriority.Name" xml:space="preserve">
-    <value>chkPriority</value>
-  </data>
-  <data name="&gt;&gt;chkPriority.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkPriority.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;chkPriority.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="chkRR.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Left</value>
-  </data>
-  <data name="chkRR.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="chkRR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 327</value>
-  </data>
-  <data name="chkRR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 21</value>
-  </data>
-  <data name="chkRR.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="chkRR.Text" xml:space="preserve">
-    <value>RR</value>
-  </data>
-  <data name="chkRR.ToolTip" xml:space="preserve">
-    <value>Round Robin</value>
-  </data>
-  <data name="&gt;&gt;chkRR.Name" xml:space="preserve">
-    <value>chkRR</value>
-  </data>
-  <data name="&gt;&gt;chkRR.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkRR.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;chkRR.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
   <data name="wah.AutoSize" type="System.Boolean, mscorlib">
